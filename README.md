@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Technical Writing Portfolio
 
 Welcome to my Technical Writing portfolio! My name is John, and I'm passionate about making complex information easy to understand. I have an extensive background in developing engineering documentation, user guides, FAQs, onboarding documentation, runbooks, API documentation, and more. 
