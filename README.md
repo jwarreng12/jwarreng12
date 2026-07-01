@@ -19,5 +19,5 @@ If you want to check out my profile, you can reach me at:
 
 * LinkedIn:  https://www.linkedin.com/in/john-w-george/
 
-Thank you for visiting, and I look forward to the possibility of working together! 
+Thank you for visiting, and I look forward to the possibility of us working together! 
 
