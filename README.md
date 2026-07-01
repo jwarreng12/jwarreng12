@@ -11,7 +11,7 @@ I have experience optimizing content for AI/LLM-powered discovery, testing conte
 | Sample | Description |
 | -------- | ------------- | 
 | [EP Doc Center](https://github.com/jwarreng12/Technical-Writing-Portfolio#writing-samples) | Portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.  | 
-| Boomi Connectors(https://github.com/jwarreng12/Technical-Writing-Portfolio#writing-samples-1) | Main components that facilitate Boomi integration and contain the information needed to connect to a data source or application. |
+| [Boomi Connectors](https://github.com/jwarreng12/Technical-Writing-Portfolio#writing-samples-1) | Main components that facilitate Boomi integration and contain the information needed to connect to a data source or application. |
 
 # Contact Me
 
