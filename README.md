@@ -10,7 +10,7 @@ I have experience optimizing content for AI/LLM-powered discovery, testing conte
 
 | Sample | Description |
 | -------- | ------------- | 
-| [EP Doc Center](https://github.com/jwarreng12/Technical-Writing-Portfolio#technical-writing-portfolio) | The EP Doc Center is a portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.  | 
+| [EP Doc Center](https://github.com/jwarreng12/Technical-Writing-Portfolio#technical-writing-portfolio) | Portal to centralize content, improve discoverability, and enable Meta's engineers/cross functional teams to find/write content and build Meta software.  | 
 
 # Contact Me
 
