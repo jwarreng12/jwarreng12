@@ -6,6 +6,12 @@ I've built documentation platforms from scratch, led content migrations, and hav
 
 I have experience optimizing content for AI/LLM-powered discovery, testing content against AI/LLMs, using AI to create content, and using structured prompts to automate manual processes, improve communication, and improve support.
 
+# My Writing Samples
+
+| Document | Document Type | Description |
+| -------- | ------------- | ----------- |
+| Content Cell | Content Cell | Content Cell |
+
 # Contact Me
 
 If you want to check out my profile, you can reach me at:
