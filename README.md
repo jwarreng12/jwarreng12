@@ -8,8 +8,8 @@ I have experience optimizing content for AI/LLM-powered discovery, testing conte
 
 # My Writing Samples
 
-| Document | Document Type | Description |
-| -------- | ------------- | ----------- |
+| Sample | Description |
+| -------- | ------------- | 
 | [EP Doc Center](https://github.com/jwarreng12/Technical-Writing-Portfolio#technical-writing-portfolio) | Content Cell | Content Cell |
 
 # Contact Me
