@@ -10,7 +10,7 @@ I have experience optimizing content for AI/LLM-powered discovery, testing conte
 
 | Document | Document Type | Description |
 | -------- | ------------- | ----------- |
-| [EP Doc Center](https://pages.github.com/) | Content Cell | Content Cell |
+| [EP Doc Center]([GitHub Pages](https://pages.github.com/)) | Content Cell | Content Cell |
 
 # Contact Me
 
